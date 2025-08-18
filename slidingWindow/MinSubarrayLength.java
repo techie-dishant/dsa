@@ -1,3 +1,5 @@
+package slidingWindow;
+
 public class MinSubarrayLength {
 
     public static int minSubArrayLen(int target, int[] nums) {
